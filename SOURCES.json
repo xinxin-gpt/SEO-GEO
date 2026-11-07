@@ -1,0 +1,24 @@
+{
+  "saved_on": "2026-11-08",
+  "sources": [
+    {
+      "source": "https://github.com/DarynaRodriguez/seo-skills",
+      "backup": "https://github.com/xinxin-gpt/seo-skills",
+      "commit": "bb88220c6611a6b96322f3536f074c1e5295a8ec",
+      "destination": "sources/seo-skills",
+      "files": 169,
+      "license": "MIT"
+    },
+    {
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "backup": "https://github.com/xinxin-gpt/marketingskills",
+      "commit": "96798cf38736ecdba015a1d2b0521b0c8f8f41dd",
+      "destination": "sources/marketingskills",
+      "files": 819,
+      "license": "MIT"
+    }
+  ],
+  "excluded": [
+    "Tracked Python __pycache__/*.pyc from marketingskills (generated cache)"
+  ]
+}
